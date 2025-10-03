@@ -1,6 +1,6 @@
 <!--<img src="https://camo.githubusercontent.com/80eade9903c3624e41311912bcbc5043d58aa846b11cb1d3e9176f68a6f64c11/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f35346236633036383039373539392e356235306263613437366239622e676966" alt="MasterHead" data-canonical-src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">-->
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/c3be0506ceadca877501c256418a0941bd450904fb2cdb0b0c4c883aca59db5c/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966" data-canonical-src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" data-canonical-src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 👋 Hi, I’m @mouaadchakir
 - 👀 I’m interested in ...
