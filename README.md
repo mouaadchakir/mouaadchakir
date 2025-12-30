@@ -2,14 +2,68 @@
 <img src="https://private-user-images.githubusercontent.com/13622306/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ4NTk0MDQsIm5iZiI6MTc2NDg1OTEwNCwicGF0aCI6Ii8xMzYyMjMwNi8zNzM5NjQ3NTUtNzU0ZjdmNDgtNTdiNC00YjhmLTkwNTQtYjIxZWY3ODAzNjk4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA0VDE0MzgyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExYmYyNDZkZTk0OTBjZjJjNTdiMzJkYTBiNjFkNTAzZWIzNTllMWI1ODRiZmUwZjZlNDMwNzA3OGI4ZDMyYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.c__u6ZQdXZsXoW13k-nIHKOabxCxnBYl_ELMVLo2KvM" align="right" alt="A professional animation coder gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="35%">
 
 
+# 👋 Hi, I'm Mouad Chakir
 
-- 👋 Hi, I’m @mouaadchakir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎯 **Full Stack Web Developer**  
+Passionate about building modern, scalable, and user-focused web applications.
+
+---
+
+## 🚀 About Me
+- 💻 I work mainly with **Laravel, React, Django, Spring Boot**
+- 🧠 Strong interest in **clean architecture, performance, and security**
+- 🌍 I enjoy learning new technologies and improving my problem-solving skills
+- 🤝 Open to collaboration on meaningful and challenging projects
+
+---
+
+## 🛠️ Tech Stack
+**Frontend**
+- HTML5, CSS3, Bootstrap, Tailwind
+- JavaScript, React
+
+**Backend**
+- Laravel (PHP)
+- Django (Python)
+- Spring Boot (Java)
+
+**Databases**
+- MySQL, PostgreSQL
+
+**Tools & DevOps**
+- Git & GitHub
+- Docker
+- XAMPP
+- Linux (Ubuntu)
+
+---
+
+## 📚 Currently Learning
+- Advanced **CSS architecture & responsiveness**
+- **Authentication & Security** (Keycloak, OAuth, JWT)
+- **DevOps basics** & deployment strategies
+
+---
+
+## 📌 Projects Highlights
+- 🎭 **Spectacle Reservation Platform** (Django)
+- 🏥 **MediConnect** – Patient & Doctor Communication Platform
+- 💰 **Family Expense Tracker** (Spring Boot)
+- 🏨 **Hotel Reservation App** (React)
+
+👉 Check my repositories for more projects.
+
+---
+
+## 📫 How to Reach Me
+- GitHub: [@mouaadchakir](https://github.com/mouaadchakir)
+- Email: *mouaadchk2000@gmail.com*
+
+---
+
+## ⚡ Fun Fact
+I enjoy turning complex problems into simple and elegant solutions 🚀
+
 
 <!--- -- 
 mouaadchakir/mouaadchakir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
