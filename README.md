@@ -28,7 +28,7 @@ Passionate about building modern, scalable, and user-focused web applications.
 - Spring Boot (Java)
 
 **Databases**
-- MySQL, PostgreSQL
+- MySQL, SQL/PLSQL,NOSQL
 
 **Tools & DevOps**
 - Git & GitHub
