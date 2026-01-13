@@ -50,7 +50,7 @@ Passionate about building modern, scalable, and user-focused web applications.
 - 🏥 **MediConnect** – Patient & Doctor Communication Platform
 - 💰 **Family Expense Tracker** (Spring Boot)
 - 🏨 **Hotel Reservation App** (React)
-
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lahcen404/lahcen404/output/pacman-contribution-graph.svg" style="visibility: visible; max-width: 100%;">
 👉 Check my repositories for more projects.
 
 ---
